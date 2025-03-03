@@ -231,7 +231,7 @@ function App() {
                 <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-xl">
                   <div className="absolute inset-0 bg-gradient-to-br from-blue-400 to-purple-600 opacity-20 dark:opacity-40"></div>
                   <img
-                    src="assest/Image/piccccc.jpg"
+                    src="https://drive.google.com/file/d/1X9wv98irkznuWGemhLhh6S5hH3VqmqXD/view?usp=drive_link"
                     alt="Alex Morgan"
                     className="object-cover w-full h-full"
                     loading="lazy"
