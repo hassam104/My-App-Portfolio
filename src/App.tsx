@@ -365,7 +365,7 @@ function App() {
                         <Mail className="mr-3 text-blue-600 dark:text-blue-400 flex-shrink-0" size={20} />
                         <div>
                           <p className="font-medium">Email</p>
-                          <a href="hassam625342@gmail.com" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300">
+                          <a href="mailto:hassam625342@gmail.com" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300">
                             Email/Hassam Zafar
                           </a>
                         </div>
@@ -432,7 +432,7 @@ function App() {
               <a href="https://www.linkedin.com/in/hassam-zafar-075728264/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors duration-300">
                 <Linkedin size={24} />
               </a>
-              <a href="hassam625342@gmail.com" className="text-gray-400 hover:text-white transition-colors duration-300">
+              <a href="mailto:hassam625342@gmail.com" className="text-gray-400 hover:text-white transition-colors duration-300">
                 <Mail size={24} />
               </a>
             </div>
