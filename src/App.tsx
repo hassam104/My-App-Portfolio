@@ -78,7 +78,7 @@ function App() {
       id: 2,
       title: 'Weather checker App',
       description: 'A productivity application built with React Native for cross-platform mobile use. Includes task weather check on location based.',
-      image: 'https://media.istockphoto.com/id/531889697/photo/weather-forecast-concept.jpg?s=1024x1024&w=is&k=20&c=NoySY959DXPGMe1Nw-luCLNcthomuA_EVFWTOXTNsiM=',
+      image: 'https://www.istockphoto.com/photo/weather-forecast-concept-gm531889697-55597470?searchscope=image%2Cfilm',
       tags: ['React Native', 'Firebase', 'Redux', 'TypeScript'],
       link: 'https://github.com/hassam104/Weather-Checker',
       demoLink: 'https://www.linkedin.com/posts/hassam-zafar-075728264_react-nodejs-reactjs-activity-7272313022579171329-QLea?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDkLFkBO3v_2zRMwrQ6RuXU8VC8wfLAqB8'
