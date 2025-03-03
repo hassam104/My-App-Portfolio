@@ -69,7 +69,7 @@ function App() {
       id: 1,
       title: 'E-Commerce Platform',
       description: 'A full-stack e-commerce solution with React Native, Node.js, and Firebase. Features include user authentication, product filtering, cart management, and payment processing.',
-      image: 'assest/Image/E Commerce.jpg',
+      image: 'Image/E Commerce.jpg',
       tags: ['React Native', 'Node.js', 'Firebase', 'Expo dev'],
       link: 'https://github.com/hassam104/eCommerce-Store',
       demoLink: 'https://www.linkedin.com/posts/hassam-zafar-075728264_reactnative-expo-nodejs-activity-7275522050486657027-Lpq6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDkLFkBO3v_2zRMwrQ6RuXU8VC8wfLAqB8'
@@ -78,7 +78,7 @@ function App() {
       id: 2,
       title: 'Weather checker App',
       description: 'A productivity application built with React Native for cross-platform mobile use. Includes task weather check on location based.',
-      image: 'https://github.com/hassam104/My-App-Portfolio/blob/main/assest/Image/Weahter.jpg',
+      image: 'Image/Weahter.jpg',
       tags: ['React Native', 'Firebase', 'Redux', 'TypeScript'],
       link: 'https://github.com/hassam104/Weather-Checker',
       demoLink: 'https://www.linkedin.com/posts/hassam-zafar-075728264_react-nodejs-reactjs-activity-7272313022579171329-QLea?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDkLFkBO3v_2zRMwrQ6RuXU8VC8wfLAqB8'
@@ -96,7 +96,7 @@ function App() {
       id: 4,
       title: 'Blogging App',
       description: 'A blog app lets users write, share, and explore articles on various topics. It offers a simple and interactive platform for reading and engagement',
-      image: 'assest/Image/blog.jpg',
+      image: 'Image/blog.jpg',
       tags: ['React Native', 'Expo', 'Node.js',],
       link: 'https://github.com/hassam104/Simple-Blog-disply-app',
       demoLink: 'https://www.linkedin.com/posts/hassam-zafar-075728264_react-nodejs-reactjs-activity-7270863227234775040-t_5w?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDkLFkBO3v_2zRMwrQ6RuXU8VC8wfLAqB8'
@@ -231,8 +231,8 @@ function App() {
                 <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-xl">
                   <div className="absolute inset-0 bg-gradient-to-br from-blue-400 to-purple-600 opacity-20 dark:opacity-40"></div>
                   <img
-                    src="https://drive.google.com/file/d/1X9wv98irkznuWGemhLhh6S5hH3VqmqXD/view?usp=drive_link"
-                    alt="Alex Morgan"
+                    src="Image/piccccc.jpg"
+                    alt="Hassam Zafar"
                     className="object-cover w-full h-full"
                     loading="lazy"
                   />
